@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = "Hello";
+echo strval($a) . "<br>";
+
+$b = "1234.56789";
+echo strval($b) . "<br>";
+
+$c = "1234.56789Hello";
+echo strval($c) . "<br>";
+
+$d = "Hello1234.56789";
+echo strval($d) . "<br>";
+
+$e = 1234;
+echo strval($e) . "<br>";
+?>
+
+</body>
+</html>
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = "Hello";
+echo strval($a) . "<br>";
+
+$b = "1234.56789";
+echo strval($b) . "<br>";
+
+$c = "1234.56789Hello";
+echo strval($c) . "<br>";
+
+$d = "Hello1234.56789";
+echo strval($d) . "<br>";
+
+$e = 1234;
+echo strval($e) . "<br>";
+?>
+
+</body>
+</html>
+
+
+​
+
+
+
+Hello
+1234.56789
+1234.56789Hello
+Hello1234.56789
+1234

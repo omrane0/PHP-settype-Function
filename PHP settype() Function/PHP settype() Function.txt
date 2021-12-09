@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$a = "32"; // string 
+settype($a, "integer"); // $a is now integer
+
+$b = 32; // integer 
+settype($b, "string"); // $b is now string
+
+$c = true; // boolean 
+settype($c, "integer"); // $c is now integer (1)
+?>
+
+</body>
+</html>
